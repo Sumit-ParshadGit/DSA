@@ -33,4 +33,12 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumit-ParshadGit/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sumit-ParshadGit/DSA/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sumit-ParshadGit/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
