@@ -7,9 +7,9 @@ public:
         if(dp[i][j]!=-1)return dp[i][j];
         if(w1[i]==w2[j])return dp[i][j] =  sol(w1,w2,i+1,j+1,n1,n2);
         return dp[i][j] = 1+ min(
-            {sol(w1,w2,i+1,j,n1,n2),
-            sol(w1,w2,i+1,j+1,n1,n2),
-            sol(w1,w2,i,j+1,n1,n2)}
+            sol(w1,w2,i+1,j,n1,n2),
+            min(sol(w1,w2,i+1,j+1,n1,n2),
+            sol(w1,w2,i,j+1,n1,n2))
         );
     }
     int minDistance(string word1, string word2) {
