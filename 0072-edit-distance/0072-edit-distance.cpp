@@ -1,7 +1,7 @@
 class Solution {
 public:
     int dp[501][501];
-    int sol(string w1,string w2,int i,int j,int n1,int n2){
+    int sol(const string &w1,const string &w2,int i,int j,int n1,int n2){
         if(j>=n2)return n1-i;
         if(i>=n1)return n2-j;
         if(dp[i][j]!=-1)return dp[i][j];
