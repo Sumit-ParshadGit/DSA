@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sumit-ParshadGit/DSA/tree/master/0155-min-stack) |
+| [0456-132-pattern](https://github.com/Sumit-ParshadGit/DSA/tree/master/0456-132-pattern) |
 ## Design
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 ## Array
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Sumit-ParshadGit/DSA/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Sumit-ParshadGit/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
@@ -109,4 +111,16 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sumit-ParshadGit/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Sumit-ParshadGit/DSA/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Sumit-ParshadGit/DSA/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Sumit-ParshadGit/DSA/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
