@@ -35,6 +35,7 @@
 | [0486-predict-the-winner](https://github.com/Sumit-ParshadGit/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Sumit-ParshadGit/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumit-ParshadGit/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sumit-ParshadGit/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -123,4 +124,28 @@
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Sumit-ParshadGit/DSA/tree/master/0456-132-pattern) |
+## Simulation
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Sumit-ParshadGit/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Sumit-ParshadGit/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Sumit-ParshadGit/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Primality Test
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Sumit-ParshadGit/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Sumit-ParshadGit/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Sumit-ParshadGit/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
