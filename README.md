@@ -99,14 +99,17 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sumit-ParshadGit/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Sumit-ParshadGit/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sumit-ParshadGit/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Sumit-ParshadGit/DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sumit-ParshadGit/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Sumit-ParshadGit/DSA/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -148,4 +151,8 @@
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Sumit-ParshadGit/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Sumit-ParshadGit/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
