@@ -39,6 +39,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sumit-ParshadGit/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/0877-stone-game) |
+| [1323-maximum-69-number](https://github.com/Sumit-ParshadGit/DSA/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sumit-ParshadGit/DSA/tree/master/1510-stone-game-iv) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Sumit-ParshadGit/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -54,6 +55,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/Sumit-ParshadGit/DSA/tree/master/1323-maximum-69-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumit-ParshadGit/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sumit-ParshadGit/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
