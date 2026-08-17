@@ -49,6 +49,7 @@
 | [1323-maximum-69-number](https://github.com/Sumit-ParshadGit/DSA/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sumit-ParshadGit/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Sumit-ParshadGit/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sumit-ParshadGit/DSA/tree/master/2029-stone-game-ix) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Sumit-ParshadGit/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sumit-ParshadGit/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -91,6 +92,7 @@
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sumit-ParshadGit/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Sumit-ParshadGit/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sumit-ParshadGit/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sumit-ParshadGit/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumit-ParshadGit/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -105,6 +107,7 @@
 | [0877-stone-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sumit-ParshadGit/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Sumit-ParshadGit/DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sumit-ParshadGit/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -117,6 +120,7 @@
 | [0877-stone-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sumit-ParshadGit/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Sumit-ParshadGit/DSA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Sumit-ParshadGit/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
