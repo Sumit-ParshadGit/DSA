@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sumit-ParshadGit/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sumit-ParshadGit/DSA/tree/master/0072-edit-distance) |
 | [0567-permutation-in-string](https://github.com/Sumit-ParshadGit/DSA/tree/master/0567-permutation-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sumit-ParshadGit/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -17,6 +18,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sumit-ParshadGit/DSA/tree/master/0049-group-anagrams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumit-ParshadGit/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -33,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sumit-ParshadGit/DSA/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/Sumit-ParshadGit/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Sumit-ParshadGit/DSA/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/Sumit-ParshadGit/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -85,6 +88,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sumit-ParshadGit/DSA/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/Sumit-ParshadGit/DSA/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-ParshadGit/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0456-132-pattern](https://github.com/Sumit-ParshadGit/DSA/tree/master/0456-132-pattern) |
