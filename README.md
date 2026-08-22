@@ -63,6 +63,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sumit-ParshadGit/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sumit-ParshadGit/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Combinatorics
 |  |
 | ------- |
