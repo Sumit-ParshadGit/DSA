@@ -112,6 +112,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-ParshadGit/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Sumit-ParshadGit/DSA/tree/master/0904-fruit-into-baskets) |
+| [0983-minimum-cost-for-tickets](https://github.com/Sumit-ParshadGit/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1386-cinema-seat-allocation](https://github.com/Sumit-ParshadGit/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sumit-ParshadGit/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -136,6 +137,7 @@
 | [0072-edit-distance](https://github.com/Sumit-ParshadGit/DSA/tree/master/0072-edit-distance) |
 | [0486-predict-the-winner](https://github.com/Sumit-ParshadGit/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/0877-stone-game) |
+| [0983-minimum-cost-for-tickets](https://github.com/Sumit-ParshadGit/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sumit-ParshadGit/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sumit-ParshadGit/DSA/tree/master/1563-stone-game-v) |
