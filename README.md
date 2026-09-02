@@ -24,6 +24,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Sumit-ParshadGit/DSA/tree/master/0049-group-anagrams) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sumit-ParshadGit/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumit-ParshadGit/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sumit-ParshadGit/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -85,6 +86,7 @@
 | ------- |
 | [1323-maximum-69-number](https://github.com/Sumit-ParshadGit/DSA/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/Sumit-ParshadGit/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sumit-ParshadGit/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sumit-ParshadGit/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -119,6 +121,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sumit-ParshadGit/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Sumit-ParshadGit/DSA/tree/master/1563-stone-game-v) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sumit-ParshadGit/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sumit-ParshadGit/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -215,6 +218,7 @@
 | ------- |
 | [0456-132-pattern](https://github.com/Sumit-ParshadGit/DSA/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-ParshadGit/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sumit-ParshadGit/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumit-ParshadGit/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Monotonic Stack
 |  |
@@ -291,6 +295,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-ParshadGit/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Sumit-ParshadGit/DSA/tree/master/0904-fruit-into-baskets) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sumit-ParshadGit/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sumit-ParshadGit/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sumit-ParshadGit/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumit-ParshadGit/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sumit-ParshadGit/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -316,5 +321,6 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-ParshadGit/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Sumit-ParshadGit/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
