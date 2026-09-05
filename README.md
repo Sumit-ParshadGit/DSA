@@ -124,6 +124,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sumit-ParshadGit/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Sumit-ParshadGit/DSA/tree/master/1563-stone-game-v) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sumit-ParshadGit/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sumit-ParshadGit/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sumit-ParshadGit/DSA/tree/master/2029-stone-game-ix) |
@@ -151,6 +152,7 @@
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sumit-ParshadGit/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sumit-ParshadGit/DSA/tree/master/1563-stone-game-v) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sumit-ParshadGit/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sumit-ParshadGit/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
