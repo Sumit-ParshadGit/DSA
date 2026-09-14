@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sumit-ParshadGit/DSA/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Sumit-ParshadGit/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/Sumit-ParshadGit/DSA/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
@@ -360,4 +361,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sumit-ParshadGit/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Sumit-ParshadGit/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
