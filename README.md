@@ -70,6 +70,7 @@
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sumit-ParshadGit/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sumit-ParshadGit/DSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sumit-ParshadGit/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sumit-ParshadGit/DSA/tree/master/2029-stone-game-ix) |
@@ -87,6 +88,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sumit-ParshadGit/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumit-ParshadGit/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
@@ -164,6 +166,7 @@
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sumit-ParshadGit/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sumit-ParshadGit/DSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sumit-ParshadGit/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sumit-ParshadGit/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sumit-ParshadGit/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -349,6 +352,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-ParshadGit/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-ParshadGit/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sumit-ParshadGit/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sumit-ParshadGit/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sumit-ParshadGit/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Sumit-ParshadGit/DSA/tree/master/3903-smallest-stable-index-i) |
