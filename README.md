@@ -10,6 +10,7 @@
 | [0567-permutation-in-string](https://github.com/Sumit-ParshadGit/DSA/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sumit-ParshadGit/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sumit-ParshadGit/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -120,6 +121,7 @@
 | [0155-min-stack](https://github.com/Sumit-ParshadGit/DSA/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/Sumit-ParshadGit/DSA/tree/master/0456-132-pattern) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -399,4 +401,5 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
