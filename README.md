@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sumit-ParshadGit/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sumit-ParshadGit/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sumit-ParshadGit/DSA/tree/master/0115-distinct-subsequences) |
@@ -118,6 +119,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Sumit-ParshadGit/DSA/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/Sumit-ParshadGit/DSA/tree/master/0456-132-pattern) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -400,6 +402,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
