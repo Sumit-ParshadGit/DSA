@@ -55,6 +55,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sumit-ParshadGit/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sumit-ParshadGit/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Sumit-ParshadGit/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-ParshadGit/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sumit-ParshadGit/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Sumit-ParshadGit/DSA/tree/master/0904-fruit-into-baskets) |
@@ -139,6 +140,7 @@
 | [0036-valid-sudoku](https://github.com/Sumit-ParshadGit/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Sumit-ParshadGit/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sumit-ParshadGit/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Sumit-ParshadGit/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sumit-ParshadGit/DSA/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/Sumit-ParshadGit/DSA/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-ParshadGit/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -323,6 +325,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sumit-ParshadGit/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Sumit-ParshadGit/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Sumit-ParshadGit/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Sumit-ParshadGit/DSA/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-ParshadGit/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 ## Backtracking
