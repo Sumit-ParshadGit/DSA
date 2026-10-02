@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Sumit-ParshadGit/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sumit-ParshadGit/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sumit-ParshadGit/DSA/tree/master/0115-distinct-subsequences) |
@@ -175,6 +176,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Sumit-ParshadGit/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sumit-ParshadGit/DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Sumit-ParshadGit/DSA/tree/master/0486-predict-the-winner) |
@@ -321,6 +323,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -403,6 +406,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
