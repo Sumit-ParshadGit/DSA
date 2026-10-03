@@ -33,6 +33,7 @@
 | [0016-3sum-closest](https://github.com/Sumit-ParshadGit/DSA/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Sumit-ParshadGit/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sumit-ParshadGit/DSA/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0229-majority-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sumit-ParshadGit/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumit-ParshadGit/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -45,6 +46,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/Sumit-ParshadGit/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sumit-ParshadGit/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -56,6 +58,7 @@
 | [0036-valid-sudoku](https://github.com/Sumit-ParshadGit/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Sumit-ParshadGit/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit-ParshadGit/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-ParshadGit/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sumit-ParshadGit/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Sumit-ParshadGit/DSA/tree/master/0904-fruit-into-baskets) |
@@ -143,6 +146,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sumit-ParshadGit/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sumit-ParshadGit/DSA/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/Sumit-ParshadGit/DSA/tree/master/0130-surrounded-regions) |
+| [0229-majority-element-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0229-majority-element-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-ParshadGit/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0456-132-pattern](https://github.com/Sumit-ParshadGit/DSA/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Sumit-ParshadGit/DSA/tree/master/0486-predict-the-winner) |
@@ -426,4 +430,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sumit-ParshadGit/DSA/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
