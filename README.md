@@ -91,6 +91,7 @@
 | [1563-stone-game-v](https://github.com/Sumit-ParshadGit/DSA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sumit-ParshadGit/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1872-stone-game-viii) |
+| [1922-count-good-numbers](https://github.com/Sumit-ParshadGit/DSA/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sumit-ParshadGit/DSA/tree/master/2029-stone-game-ix) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Sumit-ParshadGit/DSA/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sumit-ParshadGit/DSA/tree/master/0486-predict-the-winner) |
+| [1922-count-good-numbers](https://github.com/Sumit-ParshadGit/DSA/tree/master/1922-count-good-numbers) |
 ## Game Theory
 |  |
 | ------- |
