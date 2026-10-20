@@ -422,6 +422,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Sumit-ParshadGit/DSA/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Sumit-ParshadGit/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumit-ParshadGit/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sumit-ParshadGit/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -441,6 +442,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumit-ParshadGit/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/Sumit-ParshadGit/DSA/tree/master/0191-number-of-1-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sumit-ParshadGit/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
