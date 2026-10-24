@@ -180,6 +180,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-ParshadGit/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Sumit-ParshadGit/DSA/tree/master/0904-fruit-into-baskets) |
+| [0931-minimum-falling-path-sum](https://github.com/Sumit-ParshadGit/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Sumit-ParshadGit/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumit-ParshadGit/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/Sumit-ParshadGit/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -224,6 +225,7 @@
 | [0115-distinct-subsequences](https://github.com/Sumit-ParshadGit/DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Sumit-ParshadGit/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/Sumit-ParshadGit/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Sumit-ParshadGit/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
@@ -377,6 +379,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sumit-ParshadGit/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Sumit-ParshadGit/DSA/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-ParshadGit/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0931-minimum-falling-path-sum](https://github.com/Sumit-ParshadGit/DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Backtracking
 |  |
 | ------- |
