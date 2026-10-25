@@ -168,6 +168,7 @@
 | [0049-group-anagrams](https://github.com/Sumit-ParshadGit/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit-ParshadGit/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sumit-ParshadGit/DSA/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/Sumit-ParshadGit/DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Sumit-ParshadGit/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sumit-ParshadGit/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Sumit-ParshadGit/DSA/tree/master/0136-single-number) |
@@ -223,6 +224,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Sumit-ParshadGit/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sumit-ParshadGit/DSA/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Sumit-ParshadGit/DSA/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/Sumit-ParshadGit/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Sumit-ParshadGit/DSA/tree/master/0931-minimum-falling-path-sum) |
