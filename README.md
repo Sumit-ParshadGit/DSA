@@ -184,6 +184,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Sumit-ParshadGit/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Sumit-ParshadGit/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumit-ParshadGit/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/Sumit-ParshadGit/DSA/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Sumit-ParshadGit/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sumit-ParshadGit/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -284,6 +285,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-ParshadGit/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Sumit-ParshadGit/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Sumit-ParshadGit/DSA/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/Sumit-ParshadGit/DSA/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sumit-ParshadGit/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sumit-ParshadGit/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Sumit-ParshadGit/DSA/tree/master/3310-remove-methods-from-project) |
@@ -294,6 +296,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-ParshadGit/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Sumit-ParshadGit/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Sumit-ParshadGit/DSA/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/Sumit-ParshadGit/DSA/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sumit-ParshadGit/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Sumit-ParshadGit/DSA/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -370,6 +373,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Sumit-ParshadGit/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sumit-ParshadGit/DSA/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Sumit-ParshadGit/DSA/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/Sumit-ParshadGit/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sumit-ParshadGit/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sumit-ParshadGit/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sumit-ParshadGit/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -382,6 +386,7 @@
 | [0130-surrounded-regions](https://github.com/Sumit-ParshadGit/DSA/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-ParshadGit/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0931-minimum-falling-path-sum](https://github.com/Sumit-ParshadGit/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Sumit-ParshadGit/DSA/tree/master/1254-number-of-closed-islands) |
 ## Backtracking
 |  |
 | ------- |
