@@ -38,6 +38,7 @@
 | [0049-group-anagrams](https://github.com/Sumit-ParshadGit/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sumit-ParshadGit/DSA/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0229-majority-element-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sumit-ParshadGit/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Sumit-ParshadGit/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sumit-ParshadGit/DSA/tree/master/0048-rotate-image) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Sumit-ParshadGit/DSA/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Sumit-ParshadGit/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Sumit-ParshadGit/DSA/tree/master/0877-stone-game) |
@@ -175,6 +177,7 @@
 | [0229-majority-element-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0229-majority-element-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-ParshadGit/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0456-132-pattern](https://github.com/Sumit-ParshadGit/DSA/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Sumit-ParshadGit/DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit-ParshadGit/DSA/tree/master/0560-subarray-sum-equals-k) |
