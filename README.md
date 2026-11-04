@@ -81,6 +81,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sumit-ParshadGit/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sumit-ParshadGit/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sumit-ParshadGit/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sumit-ParshadGit/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sumit-ParshadGit/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -112,6 +113,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumit-ParshadGit/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sumit-ParshadGit/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sumit-ParshadGit/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sumit-ParshadGit/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumit-ParshadGit/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -212,6 +214,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sumit-ParshadGit/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sumit-ParshadGit/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sumit-ParshadGit/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sumit-ParshadGit/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sumit-ParshadGit/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sumit-ParshadGit/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sumit-ParshadGit/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -250,6 +253,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sumit-ParshadGit/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sumit-ParshadGit/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Sumit-ParshadGit/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sumit-ParshadGit/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Sumit-ParshadGit/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sumit-ParshadGit/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
@@ -288,6 +292,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sumit-ParshadGit/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sumit-ParshadGit/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sumit-ParshadGit/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -441,6 +446,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sumit-ParshadGit/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sumit-ParshadGit/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sumit-ParshadGit/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sumit-ParshadGit/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Segment Tree
 |  |
 | ------- |
