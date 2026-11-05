@@ -39,6 +39,7 @@
 | [0075-sort-colors](https://github.com/Sumit-ParshadGit/DSA/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0229-majority-element-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sumit-ParshadGit/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sumit-ParshadGit/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -191,6 +192,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/Sumit-ParshadGit/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sumit-ParshadGit/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/Sumit-ParshadGit/DSA/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sumit-ParshadGit/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Sumit-ParshadGit/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Sumit-ParshadGit/DSA/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sumit-ParshadGit/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -339,6 +341,7 @@
 | [0456-132-pattern](https://github.com/Sumit-ParshadGit/DSA/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Sumit-ParshadGit/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sumit-ParshadGit/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sumit-ParshadGit/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sumit-ParshadGit/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sumit-ParshadGit/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -420,6 +423,7 @@
 | [0016-3sum-closest](https://github.com/Sumit-ParshadGit/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Sumit-ParshadGit/DSA/tree/master/0075-sort-colors) |
 | [0567-permutation-in-string](https://github.com/Sumit-ParshadGit/DSA/tree/master/0567-permutation-in-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sumit-ParshadGit/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sumit-ParshadGit/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sumit-ParshadGit/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sumit-ParshadGit/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
