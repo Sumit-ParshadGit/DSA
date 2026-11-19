@@ -309,6 +309,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/Sumit-ParshadGit/DSA/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sumit-ParshadGit/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Sumit-ParshadGit/DSA/tree/master/0547-number-of-provinces) |
@@ -428,6 +429,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sumit-ParshadGit/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sumit-ParshadGit/DSA/tree/master/0022-generate-parentheses) |
+| [0113-path-sum-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0113-path-sum-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -508,11 +510,13 @@
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0113-path-sum-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sumit-ParshadGit/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sumit-ParshadGit/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/Sumit-ParshadGit/DSA/tree/master/0113-path-sum-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sumit-ParshadGit/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sumit-ParshadGit/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
